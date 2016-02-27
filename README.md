@@ -30,6 +30,8 @@ Tags used below:
 - `dedup`: Supports deduplication
 - `encrypted`: Supports encrypting data locally (stored encrypted on the backup medium)
 - `go`: Written in Go-lang
+- `gpg`: Uses GPG for the underlying encryption
+- `authenticated`: Uses cryptographic signatures or MAC tags to ensure integrity
 - `python`: Written in Python
 - `review`: Needs to be reviewed by the authors of this list in order to revise the tags assigned here.
 - `unmaintained`: Looks unmaintained / dead
@@ -46,6 +48,7 @@ The following list is sorted alphabetically:
  * [bup](https://github.com/bup/bup) review
  * [burp](http://burp.grke.org/) review
  * [borg](https://github.com/borgbackup) review
+ * [boxbackup](https://github.com/boxbackup/boxbackup) review
  * [btar](http://viric.name/cgi-bin/btar/) review
  * [chop-backup/libchop](http://nongnu.org/libchop/) review
  * [dar](http://dar.linux.free.fr/) review
