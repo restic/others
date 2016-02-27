@@ -17,6 +17,12 @@ with an exhaustive list of backup software. The criteria for inclusion are:
 If you know other backup solutions that fit the criteria above, please create a
 pull request!
 
+Note:
+=====
+
+A lot of FOSS backup solutions are merely shells on top of rsync and/or duplicity.
+Perhaps these should have a category of their own, or a tag?
+
 List of Backup Software
 =======================
 
@@ -24,14 +30,13 @@ Tags used below:
 - `dedup`: Supports deduplication
 - `encrypted`: Supports encrypting data locally (stored encrypted on the backup medium)
 - `go`: Written in Go-lang
-- `linux`: Works on Linux
 - `python`: Written in Python
 - `review`: Needs to be reviewed by the authors of this list in order to revise the tags assigned here.
 - `unmaintained`: Looks unmaintained / dead
 
 The following list is sorted alphabetically:
 
- * [attic](https://github.com/jborg/attic) review,dedup,encrypted,linux,python,review,unmaintained
+ * [attic](https://github.com/jborg/attic) review,dedup,encrypted,python,review,unmaintained
  * [areca](http://areca-backup.org) review
  * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/) review
  * [backup](https://github.com/backup/backup) review
@@ -54,7 +59,7 @@ The following list is sorted alphabetically:
  * [hindsight](https://github.com/br0ns/hindsight) review,unmaintained
  * [obnam](http://obnam.org/) review
  * [rdiff-backup](http://www.nongnu.org/rdiff-backup/) review
- * [restic](https://restic.github.io) review,go,encrypted,dedup,linux
+ * [restic](https://restic.github.io) review,go,encrypted,dedup
  * [rdup](http://zbackup.org/) review
  * [rsnapshot](http://rsnapshot.org/) review
  * [ugarit](https://www.kitten-technologies.co.uk/project/ugarit/doc/trunk/README.wiki) review
