@@ -23,6 +23,7 @@ List of Backup Software
 The following list is sorted alphabetically:
 
  * [attic](https://github.com/jborg/attic)
+ * [areca](http://areca-backup.org)
  * [BackupPC](http://backuppc.sourceforge.net/)
  * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/)
  * [bup](https://github.com/bup/bup)
@@ -32,6 +33,7 @@ The following list is sorted alphabetically:
  * [chop-backup/libchop](http://nongnu.org/libchop/)
  * [dar](http://dar.linux.free.fr/)
  * [ddar](https://github.com/basak/ddar)
+ * [duplicati](https://github.com/duplicati/duplicati)
  * [duplicity](http://duplicity.nongnu.org/)
  * [fwbackups](http://www.diffingo.com/oss/fwbackups/features)
  * [git-annex](https://git-annex.branchable.com/)
