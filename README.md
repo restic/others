@@ -30,6 +30,7 @@ Tags used below:
 - `authenticated`: Uses cryptographic signatures or MAC tags to ensure integrity
 - `dedup`: Supports deduplication
 - `encrypted`: Supports encrypting data locally (stored encrypted on the backup medium)
+- `error-correction`: Supports reconstructing data in scenarios x-of-n backup media are lost
 - `golang`: Written in Go-lang
 - `gpg`: Uses GPG for the underlying encryption
 - `incremental`: Support for incremental backups (through deltas or local deduplication)
@@ -42,19 +43,19 @@ Tags used below:
 
 The following list is sorted alphabetically:
 
- * [attic](https://github.com/jborg/attic) review,dedup,encrypted,python,review,unmaintained
+ * [attic](https://github.com/jborg/attic) review,dedup,encrypted,python,authenticated,unmaintained
  * [areca](http://areca-backup.org) review
- * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/) review
+ * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/) review,ssh
  * [backup](https://github.com/backup/backup) review
  * [backup2l](http://backup2l.sourceforge.net/) review
  * [backupninja](https://labs.riseup.net/code/projects/backupninja) review
  * [BackupPC](http://backuppc.sourceforge.net/) review
  * [bareos](https://www.bareos.org/en/) review
- * [borg](https://github.com/borgbackup) review
+ * [borg](https://github.com/borgbackup) review,dedup,encrypted,python,authenticated
  * [boxbackup](https://github.com/boxbackup/boxbackup) review
  * [btar](http://viric.name/cgi-bin/btar/) review
  * [btbrk](https://github.com/digint/btrbk) review
- * [bup](https://github.com/bup/bup) review
+ * [bup](https://github.com/bup/bup) review,dedup,incremental,error-correction
  * [burp](http://burp.grke.org/) review
  * [cedar-backup3](https://bitbucket.org/cedarsolutions/cedar-backup3/wiki/Home) review,python
  * [chop-backup/libchop](http://nongnu.org/libchop/) review
@@ -72,7 +73,7 @@ The following list is sorted alphabetically:
  * [ori](http://ori.scs.stanford.edu/) review
  * [rdiff-backup](http://www.nongnu.org/rdiff-backup/) review
  * [rdup](http://zbackup.org/) review
- * [restic](https://restic.github.io) review,golang,encrypted,authenticated,dedup,ssh
+ * [restic](https://restic.github.io) review,golang,encrypted,authenticated,dedup,incremental,ssh,s3
  * [rsbackup](http://www.greenend.org.uk/rjk/rsbackup/) review,rsync,ssh
  * [rsnapshot](http://rsnapshot.org/) review
  * [snebu](http://www.snebu.com/) review
