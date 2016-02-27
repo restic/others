@@ -14,6 +14,9 @@ with an exhaustive list of backup software. The criteria for inclusion are:
    [tarsnap](http://www.tarsnap.com/))
  * Works on Linux
 
+If you know other backup solutions that fit the criteria above, please create a
+pull request!
+
 List of Backup Software
 =======================
 
@@ -27,6 +30,7 @@ The following list is sorted alphabetically:
  * [chop-backup/libchop](http://nongnu.org/libchop/)
  * [ddar](https://github.com/basak/ddar)
  * [duplicity](http://duplicity.nongnu.org/)
+ * [git-annex](https://git-annex.branchable.com/)
  * [obnam](http://obnam.org/)
  * [rdiff-backup](http://www.nongnu.org/rdiff-backup/)
  * [rdup](http://zbackup.org/)
