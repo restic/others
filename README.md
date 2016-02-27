@@ -27,13 +27,17 @@ List of Backup Software
 =======================
 
 Tags used below:
+- `authenticated`: Uses cryptographic signatures or MAC tags to ensure integrity
 - `dedup`: Supports deduplication
 - `encrypted`: Supports encrypting data locally (stored encrypted on the backup medium)
-- `go`: Written in Go-lang
+- `golang`: Written in Go-lang
 - `gpg`: Uses GPG for the underlying encryption
-- `authenticated`: Uses cryptographic signatures or MAC tags to ensure integrity
+- `incremental`: Support for incremental backups (through deltas or local deduplication)
 - `python`: Written in Python
 - `review`: Needs to be reviewed by the authors of this list in order to revise the tags assigned here.
+- `rsync`: Uses `rsync` or `librsync`
+- `s3`: Supports Amazon S3-compatible backends
+- `ssh`: Supports SFTP/SCP backends
 - `unmaintained`: Looks unmaintained / dead
 
 The following list is sorted alphabetically:
@@ -45,25 +49,38 @@ The following list is sorted alphabetically:
  * [backup2l](http://backup2l.sourceforge.net/) review
  * [backupninja](https://labs.riseup.net/code/projects/backupninja) review
  * [BackupPC](http://backuppc.sourceforge.net/) review
- * [bup](https://github.com/bup/bup) review
- * [burp](http://burp.grke.org/) review
+ * [bareos](https://www.bareos.org/en/) review
  * [borg](https://github.com/borgbackup) review
  * [boxbackup](https://github.com/boxbackup/boxbackup) review
  * [btar](http://viric.name/cgi-bin/btar/) review
+ * [btbrk](https://github.com/digint/btrbk) review
+ * [bup](https://github.com/bup/bup) review
+ * [burp](http://burp.grke.org/) review
+ * [cedar-backup3](https://bitbucket.org/cedarsolutions/cedar-backup3/wiki/Home) review,python
  * [chop-backup/libchop](http://nongnu.org/libchop/) review
  * [dar](http://dar.linux.free.fr/) review
  * [ddar](https://github.com/basak/ddar) review
  * [deltaic](https://github.com/cmusatyalab/deltaic) review
- * [duplicati](https://github.com/duplicati/duplicati) review
- * [duplicity](http://duplicity.nongnu.org/) review,encrypted
+ * [duplicati](https://github.com/duplicati/duplicati) review,encrypted,ssh,gpg
+ * [duplicity](http://duplicity.nongnu.org/) review,encrypted,gpg
  * [fwbackups](http://www.diffingo.com/oss/fwbackups/features) review
  * [git-annex](https://git-annex.branchable.com/) review
  * [hashbackup](http://www.hashbackup.com/) review
+ * [hdup2](https://wiki.archlinux.org/index.php/Hdup) review,gpg,ssh,unmaintained
  * [hindsight](https://github.com/br0ns/hindsight) review,unmaintained
- * [obnam](http://obnam.org/) review
+ * [obnam](http://obnam.org/) review,encrypted,gpg
+ * [ori](http://ori.scs.stanford.edu/) review
  * [rdiff-backup](http://www.nongnu.org/rdiff-backup/) review
- * [restic](https://restic.github.io) review,go,encrypted,dedup
  * [rdup](http://zbackup.org/) review
+ * [restic](https://restic.github.io) review,golang,encrypted,authenticated,dedup,ssh
+ * [rsbackup](http://www.greenend.org.uk/rjk/rsbackup/) review,rsync,ssh
  * [rsnapshot](http://rsnapshot.org/) review
+ * [snebu](http://www.snebu.com/) review
+ * [storeBackup](https://savannah.nongnu.org/projects/storebackup) review,unmaintained
  * [ugarit](https://www.kitten-technologies.co.uk/project/ugarit/doc/trunk/README.wiki) review
+ * [unison](https://www.cis.upenn.edu/~bcpierce/unison/) review
  * [zbackup](http://zbackup.org/) review
+
+List of wrappers or helper tools:
+- [atticmatic](https://torsion.org/atticmatic/) review,attic,borg
+- [deja-dup](https://wiki.gnome.org/Apps/DejaDup) review,duplicity
