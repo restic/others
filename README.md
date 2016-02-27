@@ -1,10 +1,10 @@
 Introduction
 ============
 
-During my (@fd0) research before starting [restic](https://restic.github.io)
-I've tested a lot of different backup programs. However, even after working in
-this space for a few years, I still stumble across backup solutions I didn't
-know about.
+During my ([@fd0](https://github.com/fd0)) research before starting
+[restic](https://restic.github.io) I've tested a lot of different backup
+programs. However, even after working in this space for a few years, I still
+stumble across backup solutions I didn't know about.
 
 In this repository, I'd like to collect backup solutions and eventually end up
 with an exhaustive list of backup software. The criteria for inclusion are:
