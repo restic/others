@@ -38,5 +38,5 @@ The following list is sorted alphabetically:
  * [rdiff-backup](http://www.nongnu.org/rdiff-backup/)
  * [rdup](http://zbackup.org/)
  * [rsnapshot](http://rsnapshot.org/)
- * [ugarith](https://www.kitten-technologies.co.uk/project/ugarit/doc/trunk/README.wiki)
+ * [ugarit](https://www.kitten-technologies.co.uk/project/ugarit/doc/trunk/README.wiki)
  * [zbackup](http://zbackup.org/)
