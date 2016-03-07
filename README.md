@@ -23,6 +23,13 @@ Note:
 A lot of FOSS backup solutions are merely shells on top of rsync and/or duplicity.
 Perhaps these should have a category of their own, or a tag?
 
+TODO
+====
+
+In the future we plan to provide benchmarks using [fakedatafs](https://github.com/restic/fakedatafs) and a table to sort by the tag categories.
+
+If anyone wants to help out, please submit a PR with your contribution.
+
 List of Backup Software
 =======================
 
