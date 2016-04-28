@@ -83,6 +83,7 @@ The following list is sorted alphabetically:
  * [obnam](http://obnam.org/) review,encrypted,gpg
  * [ori](http://ori.scs.stanford.edu/) review
  * [pukcab](https://github.com/lyonel/pukcab) review,golang
+ * [PyHardLinkBackup](https://github.com/jedie/PyHardLinkBackup/) dedup,python,incremental
  * [rdiff-backup](http://www.nongnu.org/rdiff-backup/) review
  * [rdup](http://zbackup.org/) review
  * [restic](https://restic.github.io) review,golang,encrypted,authenticated,dedup,incremental,ssh,s3
