@@ -44,6 +44,7 @@ Tags used below:
 - `python`: Written in Python
 - `review`: Needs to be reviewed by the authors of this list in order to revise the tags assigned here.
 - `rsync`: Uses `rsync` or `librsync`
+- `rust`: Written in Rust
 - `s3`: Supports Amazon S3-compatible backends
 - `ssh`: Supports SFTP/SCP backends
 - `unmaintained`: Looks unmaintained / dead
@@ -85,6 +86,7 @@ The following list is sorted alphabetically:
  * [pukcab](https://github.com/lyonel/pukcab) review,golang
  * [PyHardLinkBackup](https://github.com/jedie/PyHardLinkBackup/) dedup,python,incremental
  * [rdiff-backup](http://www.nongnu.org/rdiff-backup/) review
+ * [rdedup](https://github.com/dpc/rdedup) review,dedup,rust,encrypted
  * [rdup](http://zbackup.org/) review
  * [restic](https://restic.github.io) review,golang,encrypted,authenticated,dedup,incremental,ssh,s3
  * [rsbackup](http://www.greenend.org.uk/rjk/rsbackup/) review,rsync,ssh
