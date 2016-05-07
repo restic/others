@@ -98,6 +98,7 @@ The following list is sorted alphabetically:
  * [unison](https://www.cis.upenn.edu/~bcpierce/unison/) review
  * [veb](https://github.com/spydez/veb) review,golang,incremental
  * [zbackup](http://zbackup.org/) review
+ * [zpaq](http://mattmahoney.net/dc/zpaq.html) review,incremental,dedup,encrypted
 
 List of wrappers or helper tools:
 - [atticmatic](https://torsion.org/atticmatic/) review,attic,borg
