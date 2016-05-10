@@ -13,6 +13,7 @@ with an exhaustive list of backup software. The criteria for inclusion are:
  * Does not require custom network/cloud service to operate (sorry,
    [tarsnap](http://www.tarsnap.com/))
  * Works on Linux
+ * Is a dedicated to backup (sorry, [camlistore](https://camlistore.org/))
 
 If you know other backup solutions that fit the criteria above, please create a
 pull request!
