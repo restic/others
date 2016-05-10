@@ -35,6 +35,7 @@ List of Backup Software
 
 Tags used below:
 - `authenticated`: Uses cryptographic signatures or MAC tags to ensure integrity
+- `compression`: Storage with compression
 - `dedup`: Supports deduplication
 - `encrypted`: Supports encrypting data locally (stored encrypted on the backup medium)
 - `error-correction`: Supports reconstructing data in scenarios x-of-n backup media are lost
@@ -98,7 +99,7 @@ The following list is sorted alphabetically:
  * [unison](https://www.cis.upenn.edu/~bcpierce/unison/) review
  * [veb](https://github.com/spydez/veb) review,golang,incremental
  * [zbackup](http://zbackup.org/) review
- * [zpaq](http://mattmahoney.net/dc/zpaq.html) review,incremental,dedup,encrypted
+ * [zpaq](http://mattmahoney.net/dc/zpaq.html) review,incremental,dedup,encrypted,compression
 
 List of wrappers or helper tools:
 - [atticmatic](https://torsion.org/atticmatic/) review,attic,borg
