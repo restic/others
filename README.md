@@ -95,6 +95,7 @@ The following list is sorted alphabetically:
  * [rsnapshot](http://rsnapshot.org/) review
  * [shield](https://github.com/starkandwayne/shield)
  * [snebu](http://www.snebu.com/) review
+ * [s3git](https://github.com/s3git/s3git) review,golang,incremental,dedup,s3
  * [storeBackup](https://savannah.nongnu.org/projects/storebackup) review,unmaintained
  * [ugarit](https://www.kitten-technologies.co.uk/project/ugarit/doc/trunk/README.wiki) review
  * [unison](https://www.cis.upenn.edu/~bcpierce/unison/) review
