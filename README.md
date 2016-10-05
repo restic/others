@@ -94,6 +94,7 @@ The following list is sorted alphabetically:
  * [rsbackup](http://www.greenend.org.uk/rjk/rsbackup/) review,rsync,ssh
  * [rsnapshot](http://rsnapshot.org/) review
  * [shield](https://github.com/starkandwayne/shield)
+ * [snaprd](https://gitlab.tuebingen.mpg.de/stark/snaprd) golang,rsync
  * [snebu](http://www.snebu.com/) review
  * [s3git](https://github.com/s3git/s3git) review,golang,incremental,dedup,s3
  * [storeBackup](https://savannah.nongnu.org/projects/storebackup) review,unmaintained
