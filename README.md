@@ -43,6 +43,7 @@ Tags used below:
 - `golang`: Written in Go-lang
 - `gpg`: Uses GPG for the underlying encryption
 - `incremental`: Support for incremental backups (through deltas or local deduplication)
+- `perl`: Written in Perl
 - `python`: Written in Python
 - `review`: Needs to be reviewed by the authors of this list in order to revise the tags assigned here.
 - `rsync`: Uses `rsync` or `librsync`
@@ -66,6 +67,7 @@ The following list is sorted alphabetically:
  * [BlobSnap](https://github.com/tsileo/blobsnap) review,golang,incremental,dedup
  * [borg](https://github.com/borgbackup) review,dedup,encrypted,python,authenticated
  * [boxbackup](https://github.com/boxbackup/boxbackup) review
+ * [brackup](http://search.cpan.org/~bradfitz/Brackup-1.10/lib/Brackup/Manual/Overview.pod) review,dedup,encrypted,gpg,perl,unmaintained
  * [btar](http://viric.name/cgi-bin/btar/) review
  * [btbrk](https://github.com/digint/btrbk) review
  * [bup](https://github.com/bup/bup) review,dedup,incremental,error-correction
