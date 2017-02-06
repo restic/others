@@ -88,6 +88,7 @@ The following list is sorted alphabetically:
  * [knoxite](https://github.com/knoxite/knoxite) review,golang,dedup,encrypted,incremental,error-correction(?)
  * [obnam](http://obnam.org/) review,encrypted,gpg
  * [ori](http://ori.scs.stanford.edu/) review
+ * [preserve](https://github.com/cholcombe973/preserve) review,rust,dedup,encrypted
  * [pukcab](https://github.com/lyonel/pukcab) review,golang
  * [PyHardLinkBackup](https://github.com/jedie/PyHardLinkBackup/) dedup,python,incremental
  * [rdiff-backup](http://www.nongnu.org/rdiff-backup/) review
