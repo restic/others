@@ -60,7 +60,6 @@ The following list is sorted alphabetically:
  * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/) review,ssh
  * [backup](https://github.com/backup/backup) review
  * [backup2l](http://backup2l.sourceforge.net/) review
- * [backupninja](https://labs.riseup.net/code/projects/backupninja) review
  * [BackupPC](http://backuppc.sourceforge.net/) review
  * [Backups-Done-Right](https://github.com/spikebike/Backups-Done-Right) review
  * [bareos](https://www.bareos.org/en/) review
@@ -111,4 +110,5 @@ The following list is sorted alphabetically:
 
 List of wrappers or helper tools:
 - [atticmatic](https://torsion.org/atticmatic/) review,attic,borg
+- [backupninja](https://labs.riseup.net/code/projects/backupninja) borg([WIP](https://0xacab.org/riseuplabs/backupninja/merge_requests/1)),bup,duplicity,dsync,rdiff-backup,restic([WIP](https://0xacab.org/riseuplabs/backupninja/merge_requests/2)),rsnapshot,rsync,tar
 - [deja-dup](https://wiki.gnome.org/Apps/DejaDup) review,duplicity
