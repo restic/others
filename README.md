@@ -96,7 +96,7 @@ The following list is sorted alphabetically:
  * [restic](https://restic.github.io) review,golang,encrypted,authenticated,dedup,incremental,ssh,s3
  * [rsbackup](http://www.greenend.org.uk/rjk/rsbackup/) review,rsync,ssh
  * [rsnapshot](http://rsnapshot.org/) review
- * [scat](https://gitlab.com/Roman2K/scat) go,dedup,encrypted,error-correction
+ * [scat](https://github.com/Roman2K/scat) go,dedup,encrypted,error-correction
  * [shield](https://github.com/starkandwayne/shield)
  * [snaprd](https://gitlab.tuebingen.mpg.de/stark/snaprd) golang,rsync
  * [snebu](http://www.snebu.com/) review
