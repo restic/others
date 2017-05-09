@@ -71,6 +71,7 @@ The following list is sorted alphabetically:
  * [btbrk](https://github.com/digint/btrbk) review
  * [bup](https://github.com/bup/bup) review,dedup,incremental,error-correction
  * [burp](http://burp.grke.org/) review
+ * [camlistore](https://camlistore.org) review,dedup,incremental,golang,encrypted,authenticated
  * [cedar-backup3](https://bitbucket.org/cedarsolutions/cedar-backup3/wiki/Home) review,python
  * [chop-backup/libchop](http://nongnu.org/libchop/) review
  * [dar](http://dar.linux.free.fr/) review
