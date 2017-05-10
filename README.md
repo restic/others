@@ -79,6 +79,7 @@ The following list is sorted alphabetically:
  * [duplicati](https://github.com/duplicati/duplicati) review,encrypted,ssh,gpg
  * [duplicity](http://duplicity.nongnu.org/) review,encrypted,gpg,s3
  * [fwbackups](http://www.diffingo.com/oss/fwbackups/features) review
+ * [Frost](https://github.com/X-Ryl669/Frost/) review,encrypted,dedup
  * [git-annex](https://git-annex.branchable.com/) review
  * [hashbackup](http://www.hashbackup.com/) review
  * [hdup2](https://wiki.archlinux.org/index.php/Hdup) review,gpg,ssh,unmaintained
