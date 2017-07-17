@@ -73,7 +73,7 @@ The following list is sorted alphabetically:
  * [burp](http://burp.grke.org/) review
  * [cedar-backup3](https://bitbucket.org/cedarsolutions/cedar-backup3/wiki/Home) review,python
  * [chop-backup/libchop](http://nongnu.org/libchop/) review
- * [dar](http://dar.linux.free.fr/) review
+ * [dar](http://dar.linux.free.fr/) review,incremental,encrypted,compression
  * [ddar](https://github.com/basak/ddar) review
  * [deltaic](https://github.com/cmusatyalab/deltaic) review
  * [duplicati](https://github.com/duplicati/duplicati) review,encrypted,ssh,gpg
@@ -107,7 +107,7 @@ The following list is sorted alphabetically:
  * [unison](https://www.cis.upenn.edu/~bcpierce/unison/) review
  * [urbackup](https://www.urbackup.org/) review
  * [veb](https://github.com/spydez/veb) review,golang,incremental
- * [zbackup](http://zbackup.org/) review
+ * [zbackup](http://zbackup.org/) review,incremental,dedup,encrypted,compression
  * [zpaq](http://mattmahoney.net/dc/zpaq.html) review,incremental,dedup,encrypted,compression
 
 List of wrappers or helper tools:
