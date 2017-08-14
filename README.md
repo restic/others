@@ -64,7 +64,7 @@ The following list is sorted alphabetically:
  * [Backups-Done-Right](https://github.com/spikebike/Backups-Done-Right) review
  * [bareos](https://www.bareos.org/en/) review
  * [BlobSnap](https://github.com/tsileo/blobsnap) review,golang,incremental,dedup
- * [borg](https://github.com/borgbackup) review,dedup,encrypted,python,authenticated
+ * [borg](https://github.com/borgbackup) review,dedup,incremental,encrypted,python,authenticated
  * [boxbackup](https://github.com/boxbackup/boxbackup) review
  * [brackup](http://search.cpan.org/~bradfitz/Brackup-1.10/lib/Brackup/Manual/Overview.pod) review,dedup,encrypted,gpg,perl,unmaintained
  * [btar](http://viric.name/cgi-bin/btar/) review
