@@ -86,7 +86,7 @@ The following list is sorted alphabetically:
  * [hindsight](https://github.com/br0ns/hindsight) review,unmaintained
  * [kebab](https://github.com/davidlazar/kebab) review,golang
  * [knoxite](https://github.com/knoxite/knoxite) review,golang,dedup,encrypted,authenticated,incremental,error-correction,compression,s3
- * [obnam](http://obnam.org/) review,encrypted,gpg
+ * [obnam](http://obnam.org/) unmaintained,encrypted,gpg
  * [ori](http://ori.scs.stanford.edu/) review
  * [preserve](https://github.com/cholcombe973/preserve) review,rust,dedup,encrypted
  * [pukcab](https://github.com/lyonel/pukcab) review,golang
