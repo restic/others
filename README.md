@@ -91,6 +91,7 @@ The following list is sorted alphabetically:
  * [preserve](https://github.com/cholcombe973/preserve) review,rust,dedup,encrypted
  * [pukcab](https://github.com/lyonel/pukcab) review,golang
  * [PyHardLinkBackup](https://github.com/jedie/PyHardLinkBackup/) dedup,python,incremental
+ * [rclone](https://rclone.org/) review,encrypted,golang,s3,ssh,incremental
  * [rdiff-backup](http://www.nongnu.org/rdiff-backup/) review
  * [rdedup](https://github.com/dpc/rdedup) review,dedup,rust,encrypted
  * [rdup](http://zbackup.org/) review
