@@ -58,6 +58,7 @@ The following list is sorted alphabetically:
  * [areca](http://areca-backup.org) review
  * [Arqinator](https://github.com/asimihsan/arqinator) review
  * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/) review,ssh
+ * [bacula](https://blog.bacula.org/) review
  * [backup](https://github.com/backup/backup) review
  * [backup2l](http://backup2l.sourceforge.net/) review
  * [BackupPC](http://backuppc.sourceforge.net/) review
