@@ -13,7 +13,7 @@ with an exhaustive list of backup software. The criteria for inclusion are:
  * Does not require custom network/cloud service to operate (sorry,
    [tarsnap](http://www.tarsnap.com/))
  * Works on Linux
- * Is a dedicated to backup (sorry, [camlistore](https://camlistore.org/))
+ * Is a dedicated to backup (sorry, [perkeep](https://perkeep.org/))
 
 If you know other backup solutions that fit the criteria above, please create a
 pull request!
@@ -112,6 +112,6 @@ The following list is sorted alphabetically:
  * [zpaq](http://mattmahoney.net/dc/zpaq.html) review,incremental,dedup,encrypted,compression
 
 List of wrappers or helper tools:
-- [atticmatic](https://torsion.org/atticmatic/) review,attic,borg
+- [borgmatic](https://torsion.org/borgmatic/) review,borg
 - [backupninja](https://0xacab.org/riseuplabs/backupninja) borg([WIP](https://0xacab.org/riseuplabs/backupninja/merge_requests/1)),bup,duplicity,dsync,rdiff-backup,restic([WIP](https://0xacab.org/riseuplabs/backupninja/merge_requests/2)),rsnapshot,rsync,tar
 - [deja-dup](https://wiki.gnome.org/Apps/DejaDup) review,duplicity
