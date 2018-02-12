@@ -1,0 +1,57 @@
+Name,Reviewed on,Last update,Langage,Encrypted,Compression,Deduplication,Incremental,Authenticated,Error-correction,Expiration,Client/Server,UI,rsync,GPG,SSH,S3,Sync,dbsrc,Note,# checked
+areca,-,,,,,,,,,,,,,,,,,,,0
+Arqinator,-,,,,,,,,,,,,,,,,,,,0
+attic,-,"(old, see borg)",Python,x,,x,,x,,,,,,,,,,,,3
+backshift,-,,Python,,x,x,,,,x,,,,,x,,,,Source in SVN,4
+backup,-,,ruby,,,,,,,,,,,,,,x,x,Remote dst,2
+backup2l,-,,shell,,,,,,,,,,,,,,,,Heirarchical incremental tarballs,0
+BackupPC,-,,Perl,,,file,,,,,x,x,,,,,,,,3
+Backups-Done-Right,-,,,,,,,,,,,,,,,,,,"Proposal, no code",0
+bacula,-,"(old, see bareos)",,,,,,,,,,,,,,,,,,0
+bareos,-,,,,,,x,,,,x,,,,,,,,,2
+BlobSnap,-,,Golang,,,x,x,,,,,,,,,,,,,2
+borg,-,,Python,x,,x,x,x,,,,"borgmatic, backupninja",,,,,,,,5
+boxbackup,-,,C++,,,,,,,,x,,,,,,,,,1
+brackup,-,(old),Perl,x,,x,,,,,,,,x,,,,,Continuous,3
+btar,-,,C,,,,,,,,,,,,,,,,Complicated build around tarballs,0
+btbrk,-,,Perl,x,,,,,,,,,,,,,,,BTRFS,1
+bup,-,,,,,x,x,,x,,,backupninja,,,,,,,,4
+burp,-,,C,,x,x,,,,x,x,,x,,,,,,,5
+cedar-backup3,-,,Python,,,,,,,,,,,,,,,,,0
+chop-backup/libchop,-,(old),C,,,,,,,,,,,,,,,,Beta,0
+dar,-,,,x,x,,x,,,,,,,,,,,,"Pre GitHub SCM, Differential, checksums, multi-archive",3
+ddar,-,(old),C / Python,,,x,,,,,,,,,,,,,Repo,1
+deltaic,-,,Python,,,,,,,,,,,,,,,,"Low activity, Script over lvm thin pools",0
+duplicati,-,,C#,x,x,block,x,,,x,,web,,x,x,x,,,,9
+duplicity,-,,Python,x,x,,x,,,,,"deja-dup, backupninja",x,x,x,x,,,,8
+Frost,-,,,x,x,x,,,,,,,,,,,,,"Single dev, low activity",3
+fwbackups,-,,,,,,,,,,,x,x,,,,,,"Tar, maintenance only",2
+git-annex,-,,,,,,,,,,,,,,,,,,,0
+hashbackup,-,,,x,x,x,,,,,,,,,,,,,Proprierary,3
+hdup2,-,(old),,,,,,,,,,,,x,x,,,,,2
+hindsight,-,(old),,,,,,,,,,,,,,,,,,0
+kebab,-,(old 2015),Golang,,,,,,,,,,,,,,,,,0
+knoxite,-,,Golang,x,x,x,x,x,x,,,,,,,x,,,"Backend sharding, repo, missing docs, single dev",7
+obnam,?,(old),Python,x,,x,,,,,,,,x,,,,,"Repo, sftp, single tier pruning strategy",3
+ori,-,,C++,,,,,,,,,,,,,,,,"Not backup, P2P, slow dev",0
+preserve,-,,Rust,x,,x,,,,,,,,,,,,,,2
+pukcab,-,,Golang,,x,x,,,,x,?,x,,,x,,,,"Repo, single dev",6
+PyHardLinkBackup,?,,Python,,,x,x,,,,,,,,,,,,,2
+rdedup,-,,Rust,x,x,x,,,,,,,,,,,,,Beta,3
+rdiff-backup,-,(old),,,x,,x,,,,,backupninja,,,x,,,,,4
+rdup,-,,,,,,,,,,,,,,,,,,,0
+restic,-,,Golang,x,,x,x,x,,,,backupninja,,,x,x,,,,7
+rsbackup,-,,,,,,,,,,,,x,,x,,,,,2
+rsnapshot,-,,Perl,,,hard link,,,,,,backupninja,,,,,,,,2
+s3git,-,,Golang,,,x,x,,,,,,,,,x,,,Distributed,3
+scat,?,,Golang,x,,x,,,x,,,,,,,,,,"Decentralized storage, checksums, multiple copies, toolbox approach",3
+shield,,,,,,,,,,,,,,,,,,x,,1
+snaprd,?,,Golang,,,hard link,,,,x,,,x,,,,,,Single dev,3
+snebu,-,,C,,x,file,,,,x,x,,,,,,,,Sigle dev,4
+storeBackup,-,(old),,,,,,,,,,,,,,,,,,0
+ugarit,-,(old ?),,,,x,,,,,,,,,,,,,,1
+unison,-,,,,,,,,,,,,,,,,x,,,1
+urbackup,-,,C,,,file,,,,,x,x,,,,,,,Commercial version,3
+veb,-,Abandoned,Golang,,,,x,,,,,,,,,,,,,1
+zbackup,-,,C++,x,x,x,x,,,,,,,,,,,,Sporadic development,4
+zpaq,-,,,x,x,x,x,,,,,,,,,,,,"Repo, checksum, ""revision control by zip file? ??""",4
