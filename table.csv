@@ -1,57 +1,57 @@
-Name,Reviewed on,Last update,Langage,Encrypted,Compression,Deduplication,Incremental,Authenticated,Error-correction,Expiration,Client/Server,UI,rsync,GPG,SSH,S3,Sync,dbsrc,Note,# checked
-areca,-,,,,,,,,,,,,,,,,,,,0
-Arqinator,-,,,,,,,,,,,,,,,,,,,0
-attic,-,"(old, see borg)",Python,x,,x,,x,,,,,,,,,,,,3
-backshift,-,,Python,,x,x,,,,x,,,,,x,,,,Source in SVN,4
-backup,-,,ruby,,,,,,,,,,,,,,x,x,Remote dst,2
-backup2l,-,,shell,,,,,,,,,,,,,,,,Heirarchical incremental tarballs,0
-BackupPC,-,,Perl,,,file,,,,,x,x,,,,,,,,3
-Backups-Done-Right,-,,,,,,,,,,,,,,,,,,"Proposal, no code",0
-bacula,-,"(old, see bareos)",,,,,,,,,,,,,,,,,,0
-bareos,-,,,,,,x,,,,x,,,,,,,,,2
-BlobSnap,-,,Golang,,,x,x,,,,,,,,,,,,,2
-borg,-,,Python,x,,x,x,x,,,,"borgmatic, backupninja",,,,,,,,5
-boxbackup,-,,C++,,,,,,,,x,,,,,,,,,1
-brackup,-,(old),Perl,x,,x,,,,,,,,x,,,,,Continuous,3
-btar,-,,C,,,,,,,,,,,,,,,,Complicated build around tarballs,0
-btbrk,-,,Perl,x,,,,,,,,,,,,,,,BTRFS,1
-bup,-,,,,,x,x,,x,,,backupninja,,,,,,,,4
-burp,-,,C,,x,x,,,,x,x,,x,,,,,,,5
-cedar-backup3,-,,Python,,,,,,,,,,,,,,,,,0
-chop-backup/libchop,-,(old),C,,,,,,,,,,,,,,,,Beta,0
-dar,-,,,x,x,,x,,,,,,,,,,,,"Pre GitHub SCM, Differential, checksums, multi-archive",3
-ddar,-,(old),C / Python,,,x,,,,,,,,,,,,,Repo,1
-deltaic,-,,Python,,,,,,,,,,,,,,,,"Low activity, Script over lvm thin pools",0
-duplicati,-,,C#,x,x,block,x,,,x,,web,,x,x,x,,,,9
-duplicity,-,,Python,x,x,,x,,,,,"deja-dup, backupninja",x,x,x,x,,,,8
-Frost,-,,,x,x,x,,,,,,,,,,,,,"Single dev, low activity",3
-fwbackups,-,,,,,,,,,,,x,x,,,,,,"Tar, maintenance only",2
-git-annex,-,,,,,,,,,,,,,,,,,,,0
-hashbackup,-,,,x,x,x,,,,,,,,,,,,,Proprierary,3
-hdup2,-,(old),,,,,,,,,,,,x,x,,,,,2
-hindsight,-,(old),,,,,,,,,,,,,,,,,,0
-kebab,-,(old 2015),Golang,,,,,,,,,,,,,,,,,0
-knoxite,-,,Golang,x,x,x,x,x,x,,,,,,,x,,,"Backend sharding, repo, missing docs, single dev",7
-obnam,?,(old),Python,x,,x,,,,,,,,x,,,,,"Repo, sftp, single tier pruning strategy",3
-ori,-,,C++,,,,,,,,,,,,,,,,"Not backup, P2P, slow dev",0
-preserve,-,,Rust,x,,x,,,,,,,,,,,,,,2
-pukcab,-,,Golang,,x,x,,,,x,?,x,,,x,,,,"Repo, single dev",6
-PyHardLinkBackup,?,,Python,,,x,x,,,,,,,,,,,,,2
-rdedup,-,,Rust,x,x,x,,,,,,,,,,,,,Beta,3
-rdiff-backup,-,(old),,,x,,x,,,,,backupninja,,,x,,,,,4
-rdup,-,,,,,,,,,,,,,,,,,,,0
-restic,-,,Golang,x,,x,x,x,,,,backupninja,,,x,x,,,,7
-rsbackup,-,,,,,,,,,,,,x,,x,,,,,2
-rsnapshot,-,,Perl,,,hard link,,,,,,backupninja,,,,,,,,2
-s3git,-,,Golang,,,x,x,,,,,,,,,x,,,Distributed,3
-scat,?,,Golang,x,,x,,,x,,,,,,,,,,"Decentralized storage, checksums, multiple copies, toolbox approach",3
-shield,,,,,,,,,,,,,,,,,,x,,1
-snaprd,?,,Golang,,,hard link,,,,x,,,x,,,,,,Single dev,3
-snebu,-,,C,,x,file,,,,x,x,,,,,,,,Sigle dev,4
-storeBackup,-,(old),,,,,,,,,,,,,,,,,,0
-ugarit,-,(old ?),,,,x,,,,,,,,,,,,,,1
-unison,-,,,,,,,,,,,,,,,,x,,,1
-urbackup,-,,C,,,file,,,,,x,x,,,,,,,Commercial version,3
-veb,-,Abandoned,Golang,,,,x,,,,,,,,,,,,,1
-zbackup,-,,C++,x,x,x,x,,,,,,,,,,,,Sporadic development,4
-zpaq,-,,,x,x,x,x,,,,,,,,,,,,"Repo, checksum, ""revision control by zip file? ??""",4
+Name,Reviewed on,Last update,Langage,Encrypted,Compression,Deduplication,Incremental,Authenticated,Error-correction,Expiration,Client/Server,UI,rsync,GPG,SSH,S3,Sync,dbsrc,Note,Link
+areca,-,,,,,,,,,,,,,,,,,,,http://areca-backup.org
+Arqinator,-,,,,,,,,,,,,,,,,,,,https://github.com/asimihsan/arqinator
+attic,-,"(old, see borg)",Python,x,,x,,x,,,,,,,,,,,,https://github.com/jborg/attic
+backshift,-,,Python,,x,x,,,,x,,,,,x,,,,Source in SVN,http://stromberg.dnsalias.org/~strombrg/backshift/
+backup,-,,ruby,,,,,,,,,,,,,,x,x,Remote dst,https://github.com/backup/backup
+backup2l,-,,shell,,,,,,,,,,,,,,,,Heirarchical incremental tarballs,http://backup2l.sourceforge.net/
+BackupPC,-,,Perl,,,file,,,,,x,x,,,,,,,,http://backuppc.sourceforge.net/
+Backups-Done-Right,-,,,,,,,,,,,,,,,,,,"Proposal, no code",https://github.com/spikebike/Backups-Done-Right
+bacula,-,"(old, see bareos)",,,,,,,,,,,,,,,,,,https://blog.bacula.org/
+bareos,-,,,,,,x,,,,x,,,,,,,,,https://www.bareos.org/en/
+BlobSnap,-,,Golang,,,x,x,,,,,,,,,,,,,https://github.com/tsileo/blobsnap
+borg,-,,Python,x,,x,x,x,,,,"borgmatic (https://torsion.org/borgmatic/), backupninja",,,,,,,,https://github.com/borgbackup
+boxbackup,-,,C++,,,,,,,,x,,,,,,,,,https://github.com/boxbackup/boxbackup
+brackup,-,(old),Perl,x,,x,,,,,,,,x,,,,,Continuous,http://search.cpan.org/~bradfitz/Brackup-1.10/lib/Brackup/Manual/Overview.pod
+btar,-,,C,,,,,,,,,,,,,,,,Complicated build around tarballs,http://viric.name/cgi-bin/btar/
+btbrk,-,,Perl,x,,,,,,,,,,,,,,,BTRFS,https://github.com/digint/btrbk
+bup,-,,,,,x,x,,x,,,backupninja (https://0xacab.org/riseuplabs/backupninja),,,,,,,,https://github.com/bup/bup
+burp,-,,C,,x,x,,,,x,x,,x,,,,,,,http://burp.grke.org/
+cedar-backup3,-,,Python,,,,,,,,,,,,,,,,,https://bitbucket.org/cedarsolutions/cedar-backup3/wiki/Home
+chop-backup/libchop,-,(old),C,,,,,,,,,,,,,,,,Beta,http://nongnu.org/libchop/
+dar,-,,,x,x,,x,,,,,,,,,,,,"Pre GitHub SCM, Differential, checksums, multi-archive",http://dar.linux.free.fr/
+ddar,-,(old),C / Python,,,x,,,,,,,,,,,,,Repo,https://github.com/basak/ddar
+deltaic,-,,Python,,,,,,,,,,,,,,,,"Low activity, Script over lvm thin pools",https://github.com/cmusatyalab/deltaic
+duplicati,-,,C#,x,x,block,x,,,x,,web,,x,x,x,,,,https://github.com/duplicati/duplicati
+duplicity,-,,Python,x,x,,x,,,,,"deja-dup (https://wiki.gnome.org/Apps/DejaDup), backupninja",x,x,x,x,,,,http://duplicity.nongnu.org/
+Frost,-,,,x,x,x,,,,,,,,,,,,,"Single dev, low activity",https://github.com/X-Ryl669/Frost/
+fwbackups,-,,,,,,,,,,,x,x,,,,,,"Tar, maintenance only",http://www.diffingo.com/oss/fwbackups/features
+git-annex,-,,,,,,,,,,,,,,,,,,,https://git-annex.branchable.com/
+hashbackup,-,,,x,x,x,,,,,,,,,,,,,Proprierary,http://www.hashbackup.com/
+hdup2,-,(old),,,,,,,,,,,,x,x,,,,,https://wiki.archlinux.org/index.php/Hdup
+hindsight,-,(old),,,,,,,,,,,,,,,,,,https://github.com/br0ns/hindsight
+kebab,-,(old 2015),Golang,,,,,,,,,,,,,,,,,https://github.com/davidlazar/kebab
+knoxite,-,,Golang,x,x,x,x,x,x,,,,,,,x,,,"Backend sharding, repo, missing docs, single dev",https://github.com/knoxite/knoxite
+obnam,?,(old),Python,x,,x,,,,,,,,x,,,,,"Repo, sftp, single tier pruning strategy",http://obnam.org/
+ori,-,,C++,,,,,,,,,,,,,,,,"Not backup, P2P, slow dev",http://ori.scs.stanford.edu/
+preserve,-,,Rust,x,,x,,,,,,,,,,,,,,https://github.com/cholcombe973/preserve
+pukcab,-,,Golang,,x,x,,,,x,?,x,,,x,,,,"Repo, single dev",https://github.com/lyonel/pukcab
+PyHardLinkBackup,?,,Python,,,x,x,,,,,,,,,,,,,https://github.com/jedie/PyHardLinkBackup/
+rdedup,-,,Rust,x,x,x,,,,,,,,,,,,,Beta,https://github.com/dpc/rdedup
+rdiff-backup,-,(old),,,x,,x,,,,,backupninja,,,x,,,,,http://www.nongnu.org/rdiff-backup/
+rdup,-,,,,,,,,,,,,,,,,,,,http://zbackup.org/
+restic,-,,Golang,x,,x,x,x,,,,backupninja,,,x,x,,,,https://restic.github.io/
+rsbackup,-,,,,,,,,,,,,x,,x,,,,,http://www.greenend.org.uk/rjk/rsbackup/
+rsnapshot,-,,Perl,,,hard link,,,,,,backupninja,,,,,,,,http://rsnapshot.org/
+s3git,-,,Golang,,,x,x,,,,,,,,,x,,,Distributed,https://github.com/s3git/s3git
+scat,?,,Golang,x,,x,,,x,,,,,,,,,,"Decentralized storage, checksums, multiple copies, toolbox approach",https://github.com/Roman2K/scat
+shield,,,,,,,,,,,,,,,,,,x,,https://github.com/starkandwayne/shield
+snaprd,?,,Golang,,,hard link,,,,x,,,x,,,,,,Single dev,https://gitlab.tuebingen.mpg.de/stark/snaprd
+snebu,-,,C,,x,file,,,,x,x,,,,,,,,Sigle dev,http://www.snebu.com/
+storeBackup,-,(old),,,,,,,,,,,,,,,,,,https://savannah.nongnu.org/projects/storebackup
+ugarit,-,(old ?),,,,x,,,,,,,,,,,,,,https://www.kitten-technologies.co.uk/project/ugarit/doc/trunk/README.wiki
+unison,-,,,,,,,,,,,,,,,,x,,,https://www.cis.upenn.edu/~bcpierce/unison/
+urbackup,-,,C,,,file,,,,,x,x,,,,,,,Commercial version,https://www.urbackup.org/
+veb,-,Abandoned,Golang,,,,x,,,,,,,,,,,,,https://github.com/spydez/veb
+zbackup,-,,C++,x,x,x,x,,,,,,,,,,,,Sporadic development,http://zbackup.org/
+zpaq,-,,,x,x,x,x,,,,,,,,,,,,"Repo, checksum, ""revision control by zip file? 😱""",http://mattmahoney.net/dc/zpaq.html
