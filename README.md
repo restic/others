@@ -74,6 +74,7 @@ The following list is sorted alphabetically:
  * [burp](http://burp.grke.org/) review
  * [cedar-backup3](https://bitbucket.org/cedarsolutions/cedar-backup3/wiki/Home) review,python
  * [chop-backup/libchop](http://nongnu.org/libchop/) review
+ * [cronopete](https://github.com/rastersoft/cronopete) review,incremental,like timemachine from apple
  * [dar](http://dar.linux.free.fr/) review,incremental,encrypted,compression
  * [ddar](https://github.com/basak/ddar) review
  * [deltaic](https://github.com/cmusatyalab/deltaic) review
