@@ -114,5 +114,6 @@ The following list is sorted alphabetically:
 
 List of wrappers or helper tools:
 - [borgmatic](https://torsion.org/borgmatic/) review,borg
-- [backupninja](https://0xacab.org/riseuplabs/backupninja) borg([WIP](https://0xacab.org/riseuplabs/backupninja/merge_requests/1)),bup,duplicity,dsync,rdiff-backup,restic([WIP](https://0xacab.org/riseuplabs/backupninja/merge_requests/2)),rsnapshot,rsync,tar
+- [backupninja](https://0xacab.org/riseuplabs/backupninja)
+  borg([WIP](https://0xacab.org/riseuplabs/backupninja/merge_requests/10)),bup,duplicity,dsync,rdiff-backup,restic([WIP](https://0xacab.org/riseuplabs/backupninja/merge_requests/2)),rsnapshot,rsync,tar
 - [deja-dup](https://wiki.gnome.org/Apps/DejaDup) review,duplicity
