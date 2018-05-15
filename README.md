@@ -111,6 +111,7 @@ The following list is sorted alphabetically:
  * [veb](https://github.com/spydez/veb) review,golang,incremental
  * [zbackup](http://zbackup.org/) review,incremental,dedup,encrypted,compression
  * [zpaq](http://mattmahoney.net/dc/zpaq.html) review,incremental,dedup,encrypted,compression
+ * [zVault](https://github.com/dswd/zvault) incremental,dedup,encrypted,compression,rust
 
 List of wrappers or helper tools:
 - [borgmatic](https://torsion.org/borgmatic/) review,borg
