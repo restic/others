@@ -11,7 +11,7 @@ with an exhaustive list of backup software. The criteria for inclusion are:
 
  * Free Software (not just Open Source)
  * Does not require custom network/cloud service to operate (sorry,
-   [tarsnap](http://www.tarsnap.com/))
+   [tarsnap](https://www.tarsnap.com/))
  * Works on Linux
  * Is a dedicated to backup (sorry, [perkeep](https://perkeep.org/))
 
@@ -55,23 +55,23 @@ Tags used below:
 The following list is sorted alphabetically:
 
  * [attic](https://github.com/jborg/attic) review,dedup,encrypted,python,authenticated,unmaintained
- * [areca](http://areca-backup.org) review
+ * [areca](https://areca-backup.org/) review
  * [Arqinator](https://github.com/asimihsan/arqinator) review
  * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/) review,ssh
  * [bacula](https://blog.bacula.org/) review
  * [backup](https://github.com/backup/backup) review
  * [backup2l](http://backup2l.sourceforge.net/) review
- * [BackupPC](http://backuppc.sourceforge.net/) review
+ * [BackupPC](https://backuppc.github.io/backuppc/) review
  * [Backups-Done-Right](https://github.com/spikebike/Backups-Done-Right) review
  * [bareos](https://www.bareos.org/en/) review
  * [BlobSnap](https://github.com/tsileo/blobsnap) review,golang,incremental,dedup
  * [borg](https://github.com/borgbackup) review,dedup,incremental,encrypted,python,authenticated
  * [boxbackup](https://github.com/boxbackup/boxbackup) review
  * [brackup](http://search.cpan.org/~bradfitz/Brackup-1.10/lib/Brackup/Manual/Overview.pod) review,dedup,encrypted,gpg,perl,unmaintained
- * [btar](http://viric.name/cgi-bin/btar/) review
+ * [btar](http://viric.name/cgi-bin/btar/doc/trunk/doc/home.wiki/) review
  * [btbrk](https://github.com/digint/btrbk) review
  * [bup](https://github.com/bup/bup) review,dedup,incremental,error-correction
- * [burp](http://burp.grke.org/) review
+ * [burp](https://burp.grke.org/) review
  * [cedar-backup3](https://bitbucket.org/cedarsolutions/cedar-backup3/wiki/Home) review,python
  * [chop-backup/libchop](http://nongnu.org/libchop/) review
  * [cronopete](https://github.com/rastersoft/cronopete) review,incremental,like timemachine from apple
@@ -88,14 +88,14 @@ The following list is sorted alphabetically:
  * [hindsight](https://github.com/br0ns/hindsight) review,unmaintained
  * [kebab](https://github.com/davidlazar/kebab) review,golang
  * [knoxite](https://github.com/knoxite/knoxite) review,golang,dedup,encrypted,authenticated,incremental,error-correction,compression,s3
- * [obnam](http://obnam.org/) unmaintained,encrypted,gpg
+ * [obnam](https://obnam.org/) unmaintained,encrypted,gpg
  * [ori](http://ori.scs.stanford.edu/) review
  * [preserve](https://github.com/cholcombe973/preserve) review,rust,dedup,encrypted
  * [pukcab](https://github.com/lyonel/pukcab) review,golang
  * [PyHardLinkBackup](https://github.com/jedie/PyHardLinkBackup/) dedup,python,incremental
  * [rdiff-backup](http://www.nongnu.org/rdiff-backup/) review,unmaintained,incremental,ssh,compression
  * [rdedup](https://github.com/dpc/rdedup) review,dedup,rust,encrypted
- * [rdup](http://zbackup.org/) review
+ * [rdup](https://github.com/miekg/rdup) review
  * [restic](https://restic.github.io) review,golang,encrypted,authenticated,dedup,incremental,ssh,s3
  * [rsbackup](http://www.greenend.org.uk/rjk/rsbackup/) review,rsync,ssh
  * [rsnapshot](http://rsnapshot.org/) review
