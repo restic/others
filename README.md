@@ -113,6 +113,7 @@ The following list is sorted alphabetically:
  * [zbackup](http://zbackup.org/) review,incremental,dedup,encrypted,compression
  * [zpaq](http://mattmahoney.net/dc/zpaq.html) review,incremental,dedup,encrypted,compression
  * [zVault](https://github.com/dswd/zvault) incremental,dedup,encrypted,compression,rust
+ * [Duplicacy](https://github.com/gilbertchen/duplicacy) compression,dedup,encrypted,golang,incremental,s3,ssh
 
 List of wrappers or helper tools:
 - [borgmatic](https://torsion.org/borgmatic/) review,borg
