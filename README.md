@@ -106,6 +106,7 @@ The following list is sorted alphabetically:
  * [s3git](https://github.com/s3git/s3git) review,golang,incremental,dedup,s3
  * [storeBackup](https://savannah.nongnu.org/projects/storebackup) review,unmaintained
  * [Tardis](https://github.com/koldinger/Tardis) review,python
+ * [TimeShift](https://github.com/teejee2008/timeshift) System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots.
  * [ugarit](https://www.kitten-technologies.co.uk/project/ugarit/doc/trunk/README.wiki) review
  * [unison](https://www.cis.upenn.edu/~bcpierce/unison/) review
  * [urbackup](https://www.urbackup.org/) review
