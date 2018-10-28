@@ -78,7 +78,7 @@ The following list is sorted alphabetically:
  * [dar](http://dar.linux.free.fr/) review,incremental,encrypted,compression
  * [ddar](https://github.com/basak/ddar) review
  * [deltaic](https://github.com/cmusatyalab/deltaic) review
- * [duplicati](https://github.com/duplicati/duplicati) review,encrypted,ssh,gpg
+ * [duplicati](https://github.com/duplicati/duplicati) compression,dedup,encrypted,incremental,s3,ssh,gpg
  * [duplicity](http://duplicity.nongnu.org/) review,encrypted,gpg,s3,rsync,compression,python,ssh
  * [fwbackups](http://www.diffingo.com/oss/fwbackups/features) review
  * [Frost](https://github.com/X-Ryl669/Frost/) review,encrypted,dedup
