@@ -40,6 +40,7 @@ Tags used below:
 - `dedup`: Supports deduplication
 - `encrypted`: Supports encrypting data locally (stored encrypted on the backup medium)
 - `error-correction`: Supports reconstructing data in scenarios x-of-n backup media are lost
+- `gcs`: Supports Google Cloud Storage
 - `golang`: Written in Go-lang
 - `gpg`: Uses GPG for the underlying encryption
 - `incremental`: Support for incremental backups (through deltas or local deduplication)
@@ -51,6 +52,7 @@ Tags used below:
 - `s3`: Supports Amazon S3-compatible backends
 - `ssh`: Supports SFTP/SCP backends
 - `unmaintained`: Looks unmaintained / dead
+- `webdav`: Supports WebDAV backends
 
 The following list is sorted alphabetically:
 
@@ -88,6 +90,7 @@ The following list is sorted alphabetically:
  * [hindsight](https://github.com/br0ns/hindsight) review,unmaintained
  * [kebab](https://github.com/davidlazar/kebab) review,golang
  * [knoxite](https://github.com/knoxite/knoxite) review,golang,dedup,encrypted,authenticated,incremental,error-correction,compression,s3
+ * [kopia](https://github.com/kopia/kopia) encryption,golang,dedup,incremental,s3,gcs,webdav
  * [obnam](https://obnam.org/) unmaintained,encrypted,gpg
  * [ori](http://ori.scs.stanford.edu/) review
  * [preserve](https://github.com/cholcombe973/preserve) review,rust,dedup,encrypted
