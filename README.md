@@ -55,7 +55,7 @@ Tags used below:
 - `webdav`: Supports WebDAV backends
 
 The following list is sorted alphabetically:
-
+ * [amanda](http://www.amanda.org/) compression,incremental,ssh
  * [attic](https://github.com/jborg/attic) review,dedup,encrypted,python,authenticated,unmaintained
  * [areca](https://areca-backup.org/) review
  * [Arqinator](https://github.com/asimihsan/arqinator) review
