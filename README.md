@@ -80,6 +80,7 @@ The following list is sorted alphabetically:
  * [dar](http://dar.linux.free.fr/) review,incremental,encrypted,compression
  * [ddar](https://github.com/basak/ddar) review
  * [deltaic](https://github.com/cmusatyalab/deltaic) review
+ * [duplicacy](https://duplicacy.com) authenticated,compression,dedup,encrypted,incremental,gcs,golang,s3,ssh
  * [duplicati](https://github.com/duplicati/duplicati) compression,dedup,encrypted,incremental,s3,ssh,gpg
  * [duplicity](http://duplicity.nongnu.org/) review,encrypted,gpg,s3,rsync,compression,python,ssh
  * [fwbackups](http://www.diffingo.com/oss/fwbackups/features) review
