@@ -63,7 +63,7 @@ The following list is sorted alphabetically:
  * [bacula](https://blog.bacula.org/) review
  * [backup](https://github.com/backup/backup) review
  * [backup2l](http://backup2l.sourceforge.net/) review
- * [BackupPC](https://backuppc.github.io/backuppc/) review
+ * [BackupPC](https://backuppc.github.io/backuppc/) review,compression,dedup,incremental,perl,rsync,ssh
  * [Backups-Done-Right](https://github.com/spikebike/Backups-Done-Right) review
  * [bareos](https://www.bareos.org/en/) review
  * [BlobSnap](https://github.com/tsileo/blobsnap) review,golang,incremental,dedup,unmaintained
