@@ -56,8 +56,9 @@ Tags used below:
 
 The following list is sorted alphabetically:
  * [amanda](http://www.amanda.org/) compression,incremental,ssh
- * [attic](https://github.com/jborg/attic) review,dedup,encrypted,python,authenticated,unmaintained
  * [areca](https://areca-backup.org/) review
+ * [Asuran](https://asuran.rs) rust,dedup,encrypted,compression,authenticated
+ * [attic](https://github.com/jborg/attic) review,dedup,encrypted,python,authenticated,unmaintained
  * [Arqinator](https://github.com/asimihsan/arqinator) review
  * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/) review,ssh
  * [bacula](https://blog.bacula.org/) review
