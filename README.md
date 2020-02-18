@@ -66,6 +66,7 @@ The following list is sorted alphabetically:
  * [backup2l](http://backup2l.sourceforge.net/) review
  * [BackupPC](https://backuppc.github.io/backuppc/) review,compression,dedup,incremental,perl,rsync,ssh
  * [Backups-Done-Right](https://github.com/spikebike/Backups-Done-Right) review
+ * [Backy2](https://github.com/wamdam/backy2) compression,dedup,incremental,python,review
  * [bareos](https://www.bareos.org/en/) review
  * [BlobSnap](https://github.com/tsileo/blobsnap) review,golang,incremental,dedup,unmaintained
  * [borg](https://github.com/borgbackup) review,dedup,incremental,encrypted,python,authenticated
