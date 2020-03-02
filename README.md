@@ -109,6 +109,7 @@ The following list is sorted alphabetically:
  * [snaprd](https://gitlab.tuebingen.mpg.de/stark/snaprd) golang,rsync
  * [snebu](http://www.snebu.com/) review
  * [s3git](https://github.com/s3git/s3git) review,golang,incremental,dedup,s3
+ * [s3ql](https://github.com/s3ql/s3ql) review,s3
  * [storeBackup](https://savannah.nongnu.org/projects/storebackup) review,unmaintained
  * [Tardis](https://github.com/koldinger/Tardis) review,python
  * [TimeShift](https://github.com/teejee2008/timeshift) System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots.
