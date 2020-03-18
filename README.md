@@ -84,18 +84,18 @@ The following list is sorted alphabetically:
  * [duplicati](https://github.com/duplicati/duplicati) compression,dedup,encrypted,incremental,s3,ssh,gpg
  * [duplicity](http://duplicity.nongnu.org/) review,encrypted,gpg,s3,rsync,compression,python,ssh
  * [fwbackups](http://www.diffingo.com/oss/fwbackups/features) review
- * [Frost](https://github.com/X-Ryl669/Frost/) review,encrypted,dedup
+ * [Frost](https://github.com/X-Ryl669/Frost/) review,encrypted,dedup,unmaintained
  * [git-annex](https://git-annex.branchable.com/) review
  * [hashbackup](http://www.hashbackup.com/) review
  * [hdup2](https://wiki.archlinux.org/index.php/Hdup) review,gpg,ssh,unmaintained
  * [hindsight](https://github.com/br0ns/hindsight) review,unmaintained
- * [kebab](https://github.com/davidlazar/kebab) review,golang
+ * [kebab](https://github.com/davidlazar/kebab) review,golang,unmaintained
  * [knoxite](https://github.com/knoxite/knoxite) review,golang,dedup,encrypted,authenticated,incremental,error-correction,compression,s3
  * [kopia](https://github.com/kopia/kopia) compression,encryption,golang,dedup,incremental,s3,gcs,webdav,web-ui,api
  * [obnam](https://obnam.org/) unmaintained,encrypted,gpg
  * [ori](http://ori.scs.stanford.edu/) review
- * [preserve](https://github.com/cholcombe973/preserve) review,rust,dedup,encrypted
- * [pukcab](https://github.com/lyonel/pukcab) review,golang
+ * [preserve](https://github.com/cholcombe973/preserve) review,rust,dedup,encrypted,unmaintained
+ * [pukcab](https://github.com/lyonel/pukcab) review,golang,unmaintained
  * [PyHardLinkBackup](https://github.com/jedie/PyHardLinkBackup/) dedup,python,incremental
  * [rdiff-backup](http://www.nongnu.org/rdiff-backup/) review,unmaintained,incremental,ssh,compression
  * [rdedup](https://github.com/dpc/rdedup) review,dedup,rust,encrypted
@@ -103,21 +103,21 @@ The following list is sorted alphabetically:
  * [restic](https://restic.github.io) review,golang,encrypted,authenticated,dedup,incremental,ssh,s3
  * [rsbackup](https://www.greenend.org.uk/rjk/rsbackup/) review,rsync,ssh
  * [rsnapshot](http://rsnapshot.org/) perl,rsync,ssh
- * [scat](https://github.com/Roman2K/scat) go,dedup,encrypted,error-correction
+ * [scat](https://github.com/Roman2K/scat) go,dedup,encrypted,error-correction,unmaintained
  * [shield](https://github.com/starkandwayne/shield)
- * [snaprd](https://gitlab.tuebingen.mpg.de/stark/snaprd) golang,rsync
+ * [snaprd](https://gitlab.tuebingen.mpg.de/stark/snaprd) golang,rsync,unmaintained
  * [snebu](http://www.snebu.com/) review
- * [s3git](https://github.com/s3git/s3git) review,golang,incremental,dedup,s3
+ * [s3git](https://github.com/s3git/s3git) review,golang,incremental,dedup,s3,unmaintained
  * [storeBackup](https://savannah.nongnu.org/projects/storebackup) review,unmaintained
  * [Tardis](https://github.com/koldinger/Tardis) review,python
  * [TimeShift](https://github.com/teejee2008/timeshift) System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots.
  * [ugarit](https://www.kitten-technologies.co.uk/project/ugarit/doc/trunk/README.wiki) review
  * [unison](https://www.cis.upenn.edu/~bcpierce/unison/) review
  * [urbackup](https://www.urbackup.org/) review
- * [veb](https://github.com/spydez/veb) review,golang,incremental
+ * [veb](https://github.com/spydez/veb) review,golang,incremental,unmaintained
  * [zbackup](http://zbackup.org/) review,incremental,dedup,encrypted,compression
- * [zpaq](http://mattmahoney.net/dc/zpaq.html) review,incremental,dedup,encrypted,compression
- * [zVault](https://github.com/dswd/zvault) incremental,dedup,encrypted,compression,rust
+ * [zpaq](http://mattmahoney.net/dc/zpaq.html) review,incremental,dedup,encrypted,compression,unmaintained
+ * [zVault](https://github.com/dswd/zvault) incremental,dedup,encrypted,compression,rust,unmaintained
 
 List of wrappers or helper tools:
 - [borgmatic](https://torsion.org/borgmatic/) review,borg
