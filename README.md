@@ -92,7 +92,7 @@ The following list is sorted alphabetically:
  * [hindsight](https://github.com/br0ns/hindsight) review,unmaintained
  * [kebab](https://github.com/davidlazar/kebab) review,golang
  * [knoxite](https://github.com/knoxite/knoxite) review,golang,dedup,encrypted,authenticated,incremental,error-correction,compression,s3
- * [kopia](https://github.com/kopia/kopia) compression,encryption,golang,dedup,incremental,s3,gcs,webdav,web-ui,api
+ * [kopia](https://github.com/kopia/kopia) api,authenticated,compression,dedup,encryption,gcs,golang,incremental,s3,webdav,web-ui
  * [obnam](https://obnam.org/) unmaintained,encrypted,gpg
  * [ori](http://ori.scs.stanford.edu/) review
  * [preserve](https://github.com/cholcombe973/preserve) review,rust,dedup,encrypted
