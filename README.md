@@ -91,7 +91,7 @@ The following list is sorted alphabetically:
  * [hdup2](https://wiki.archlinux.org/index.php/Hdup) review,gpg,ssh,unmaintained
  * [hindsight](https://github.com/br0ns/hindsight) review,unmaintained
  * [kebab](https://github.com/davidlazar/kebab) review,golang,unmaintained
- * [knoxite](https://github.com/knoxite/knoxite) review,golang,dedup,encrypted,authenticated,incremental,error-correction,compression,s3
+ * [knoxite](https://github.com/knoxite/knoxite) review,golang,dedup,encrypted,authenticated,incremental,error-correction,compression,s3,gcs,ssh,webdav
  * [kopia](https://github.com/kopia/kopia) api,authenticated,compression,dedup,encryption,gcs,golang,incremental,s3,webdav,web-ui
  * [obnam](https://obnam.org/) unmaintained,encrypted,gpg
  * [ori](http://ori.scs.stanford.edu/) review
