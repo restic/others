@@ -41,7 +41,7 @@ Tags used below:
 - `encrypted`: Supports encrypting data locally (stored encrypted on the backup medium)
 - `error-correction`: Supports reconstructing data in scenarios x-of-n backup media are lost
 - `gcs`: Supports Google Cloud Storage
-- `golang`: Written in Go-lang
+- `golang`: Written in Go
 - `gpg`: Uses GPG for the underlying encryption
 - `incremental`: Support for incremental backups (through deltas or local deduplication)
 - `perl`: Written in Perl
@@ -75,6 +75,7 @@ The following list is sorted alphabetically:
  * [btar](http://viric.name/cgi-bin/btar/doc/trunk/doc/home.wiki/) review
  * [btbrk](https://github.com/digint/btrbk) review
  * [bup](https://github.com/bup/bup) review,dedup,incremental,error-correction
+ * [bupstash](https://github.com/andrewchambers/bupstash) dedup,incremental,rust
  * [burp](https://burp.grke.org/) review
  * [cedar-backup3](https://bitbucket.org/cedarsolutions/cedar-backup3/wiki/Home) review,python
  * [chop-backup/libchop](http://nongnu.org/libchop/) review
