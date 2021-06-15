@@ -128,3 +128,4 @@ List of wrappers or helper tools:
   borg,bup,duplicity,dsync,rdiff-backup,restic([WIP](https://0xacab.org/riseuplabs/backupninja/merge_requests/2)),rsnapshot,rsync,tar
 - [deja-dup](https://wiki.gnome.org/Apps/DejaDup) review,duplicity
 - [duply](https://duply.net/wiki/index.php/Main_Page) review,duplicity
+- [runrestic](https://github.com/sinnwerkstatt/runrestic) python,restic
