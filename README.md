@@ -62,6 +62,7 @@ The following list is sorted alphabetically:
  * [Arqinator](https://github.com/asimihsan/arqinator) review
  * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/) review,ssh
  * [bacula](https://blog.bacula.org/) review
+ * [Back In Time](https://github.com/bit-team/backintime) incremental,python,rsync,ssh,unmaintained
  * [backup](https://github.com/backup/backup) review
  * [backup2l](http://backup2l.sourceforge.net/) review
  * [BackupPC](https://backuppc.github.io/backuppc/) review,compression,dedup,incremental,perl,rsync,ssh
@@ -69,7 +70,7 @@ The following list is sorted alphabetically:
  * [Backy2](https://github.com/wamdam/backy2) compression,dedup,incremental,python,review
  * [bareos](https://www.bareos.org/en/) review
  * [BlobSnap](https://github.com/tsileo/blobsnap) review,golang,incremental,dedup,unmaintained
- * [borg](https://github.com/borgbackup) review,dedup,incremental,encrypted,python,authenticated
+ * [borg](https://github.com/borgbackup) review,compression,dedup,incremental,encrypted,python,authenticated
  * [boxbackup](https://github.com/boxbackup/boxbackup) review
  * [brackup](http://search.cpan.org/~bradfitz/Brackup-1.10/lib/Brackup/Manual/Overview.pod) review,dedup,encrypted,gpg,perl,unmaintained
  * [btar](http://viric.name/cgi-bin/btar/doc/trunk/doc/home.wiki/) review
