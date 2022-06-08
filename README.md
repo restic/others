@@ -123,6 +123,7 @@ The following list is sorted alphabetically:
  * [zVault](https://github.com/dswd/zvault) incremental,dedup,encrypted,compression,rust,unmaintained
 
 List of wrappers or helper tools:
+- [autorestic](https://autorestic.vercel.app/) golang,restic
 - [borgmatic](https://torsion.org/borgmatic/) review,borg
 - [backupninja](https://0xacab.org/liberate/backupninja)
   borg,bup,duplicity,dsync,rdiff-backup,restic([WIP](https://0xacab.org/riseuplabs/backupninja/merge_requests/2)),rsnapshot,rsync,tar
