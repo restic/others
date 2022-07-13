@@ -88,7 +88,7 @@ The following list is sorted alphabetically:
  * [duplicati](https://github.com/duplicati/duplicati) compression,dedup,encrypted,incremental,s3,ssh,gpg
  * [duplicity](http://duplicity.nongnu.org/) review,encrypted,gpg,s3,rsync,compression,python,ssh
  * [fwbackups](http://www.diffingo.com/oss/fwbackups/features) review
- * [FreeFileSync](https://freefilesync.org/) review,icremental
+ * [FreeFileSync](https://freefilesync.org/) review,incremental
  * [Frost](https://github.com/X-Ryl669/Frost/) review,encrypted,dedup,unmaintained
  * [git-annex](https://git-annex.branchable.com/) review
  * [hashbackup](http://www.hashbackup.com/) review
