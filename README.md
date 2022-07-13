@@ -40,6 +40,7 @@ Tags used below:
 - `dedup`: Supports deduplication
 - `encrypted`: Supports encrypting data locally (stored encrypted on the backup medium)
 - `error-correction`: Supports reconstructing data in scenarios x-of-n backup media are lost
+- `filesystem`: Backups are stored on a regular filesystem in plaintext, maintaining the original directory structure. Specifically, no blob abstractions are used for storage, and no specialized fuse-layer is required to read the backups.
 - `gcs`: Supports Google Cloud Storage
 - `golang`: Written in Go
 - `gpg`: Uses GPG for the underlying encryption
@@ -62,7 +63,7 @@ The following list is sorted alphabetically:
  * [Arqinator](https://github.com/asimihsan/arqinator) review
  * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/) review,ssh
  * [bacula](https://blog.bacula.org/) review
- * [Back In Time](https://github.com/bit-team/backintime) incremental,python,rsync,ssh,unmaintained
+ * [Back In Time](https://github.com/bit-team/backintime) incremental,filesystem,python,rsync,ssh,unmaintained
  * [backup](https://github.com/backup/backup) review
  * [backup2l](http://backup2l.sourceforge.net/) review
  * [BackupPC](https://backuppc.github.io/backuppc/) review,compression,dedup,incremental,perl,rsync,ssh
@@ -104,16 +105,17 @@ The following list is sorted alphabetically:
  * [rdedup](https://github.com/dpc/rdedup) review,dedup,rust,encrypted
  * [rdup](https://github.com/miekg/rdup) review
  * [restic](https://restic.github.io) review,golang,encrypted,authenticated,dedup,incremental,ssh,s3
- * [rsbackup](https://www.greenend.org.uk/rjk/rsbackup/) review,rsync,ssh
- * [rsnapshot](http://rsnapshot.org/) perl,rsync,ssh
+ * [rsbackup](https://www.greenend.org.uk/rjk/rsbackup/) review,rsync,filesystem,ssh
+ * [rsnapshot](http://rsnapshot.org/) perl,rsync,filesystem,ssh
  * [scat](https://github.com/Roman2K/scat) go,dedup,encrypted,error-correction,unmaintained
  * [shield](https://github.com/starkandwayne/shield)
- * [snaprd](https://gitlab.tuebingen.mpg.de/stark/snaprd) golang,rsync,unmaintained
+ * [snaprd](https://gitlab.tuebingen.mpg.de/stark/snaprd) golang,rsync,filesystem,unmaintained
  * [snebu](http://www.snebu.com/) review
  * [s3git](https://github.com/s3git/s3git) review,golang,incremental,dedup,s3,unmaintained
  * [storeBackup](https://savannah.nongnu.org/projects/storebackup) review,unmaintained
  * [Tardis](https://github.com/koldinger/Tardis) review,python
- * [TimeShift](https://github.com/teejee2008/timeshift) System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots.
+ * [TimeShift](https://github.com/linuxmint/timeshift) rsync,filesystem (aimed at system files, not user data. supports BTRFS snapshots as alternative to rsync+hardlink-incremental/filesystem storage)
+ * [TimeVault](https://wiki.ubuntu.com/TimeVault) unmaintained,python,incremental,filesystem
  * [ugarit](https://www.kitten-technologies.co.uk/project/ugarit/doc/trunk/README.wiki) review
  * [unison](https://www.cis.upenn.edu/~bcpierce/unison/) review
  * [urbackup](https://www.urbackup.org/) review
