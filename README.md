@@ -102,7 +102,7 @@ The following list is sorted alphabetically:
  * [rdiff-backup](https://rdiff-backup.net/) review,incremental,ssh,compression
  * [rdedup](https://github.com/dpc/rdedup) review,dedup,rust,encrypted
  * [rdup](https://github.com/miekg/rdup) review
- * [restic](https://restic.github.io) review,golang,encrypted,authenticated,dedup,incremental,ssh,s3
+ * [restic](https://restic.github.io) review,golang,encrypted,authenticated,dedup,incremental,ssh,s3,compression
  * [rsbackup](https://www.greenend.org.uk/rjk/rsbackup/) review,rsync,ssh
  * [rsnapshot](http://rsnapshot.org/) perl,rsync,ssh
  * [scat](https://github.com/Roman2K/scat) go,dedup,encrypted,error-correction,unmaintained
