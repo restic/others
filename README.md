@@ -63,7 +63,7 @@ The following list is sorted alphabetically:
  * [Arqinator](https://github.com/asimihsan/arqinator) review
  * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/) review,ssh
  * [bacula](https://blog.bacula.org/) review
- * [Back In Time](https://github.com/bit-team/backintime) incremental,filesystem,python,rsync,ssh,unmaintained
+ * [Back In Time](https://github.com/bit-team/backintime) incremental,filesystem,python,rsync,ssh
  * [backup](https://github.com/backup/backup) review
  * [backup2l](http://backup2l.sourceforge.net/) review
  * [BackupPC](https://backuppc.github.io/backuppc/) review,compression,dedup,incremental,perl,rsync,ssh
