@@ -62,7 +62,7 @@ The following list is sorted alphabetically:
  * [attic](https://github.com/jborg/attic) review,dedup,encrypted,python,authenticated,unmaintained
  * [Arqinator](https://github.com/asimihsan/arqinator) review
  * [backshift](http://stromberg.dnsalias.org/~strombrg/backshift/) review,ssh
- * [bacula](https://blog.bacula.org/) review
+ * [bacula](https://www.bacula.org/blog/) review
  * [Back In Time](https://github.com/bit-team/backintime) incremental,filesystem,python,rsync,ssh
  * [backup](https://github.com/backup/backup) review
  * [backup2l](http://backup2l.sourceforge.net/) review
