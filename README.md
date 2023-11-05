@@ -130,6 +130,7 @@ List of wrappers or helper tools:
 - [borgmatic](https://torsion.org/borgmatic/) review,borg
 - [backupninja](https://0xacab.org/liberate/backupninja)
   borg,bup,duplicity,dsync,rdiff-backup,restic([WIP](https://0xacab.org/riseuplabs/backupninja/merge_requests/2)),rsnapshot,rsync,tar
+- [crestic](https://github.com/nils-werner/crestic) python,restic  
 - [deja-dup](https://wiki.gnome.org/Apps/DejaDup) review,duplicity
 - [duply](https://duply.net/wiki/index.php/Main_Page) review,duplicity
 - [runrestic](https://github.com/sinnwerkstatt/runrestic) python,restic
